@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio built using HTML, CSS, PHP, and Tailwind CSS.",
+    "image": "portfolio.png",
+    "link": "https://github.com/vikashyadav/portfolio"
+  },
+  {
+    "title": "News Blog CMS",
+    "description": "A PHP-based blog with admin dashboard and comment moderation.",
+    "image": "newsblog.png",
+    "link": "https://github.com/vikashyadav/newsblog"
+  },
+  {
+    "title": "Chat App",
+    "description": "Real-time PHP/AJAX-based chat application with user search and groups.",
+    "image": "chatapp.png",
+    "link": ""
+  }
+]

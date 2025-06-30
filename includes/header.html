@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vikash Yadav | Portfolio</title>
+
+  <!-- Static Paths (adjust if needed per file location) -->
+  <link rel="stylesheet" href="/portfolio./assets/css/style.css" />
+  <link rel="stylesheet" href="/portfolio./assets/css/tailwind.css" />
+
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+<header class="bg-white shadow-md sticky top-0 z-50">
+  <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+
+    <!-- Circular Logo with Name -->
+    <a href="./index.php" class="flex items-center space-x-3">
+      <img src="/portfolio./assets/img/vikky.png" alt="Vikash Yadav Logo" class="h-12 w-12 rounded-full shadow-md border-2 border-blue-500 object-cover">
+      <span class="text-xl font-bold text-blue-600">Vikash Yadav</span>
+    </a>
+
+    <!-- Desktop Navigation -->
+    <nav class="space-x-4 hidden md:flex">
+      <a href="./index.php" class="hover:text-blue-600">Home</a>
+      <a href="./about.php" class="hover:text-blue-600">About</a>
+      <a href="./projects.php" class="hover:text-blue-600">Projects</a>
+      <a href="./resume.php" class="hover:text-blue-600">Resume</a>
+
+      <a href="./contact.php" class="hover:text-blue-600">Contact</a>
+    </nav>
+
+    <!-- Mobile Toggle -->
+    <div class="md:hidden">
+      <button onclick="toggleMenu()" class="text-blue-600 focus:outline-none text-2xl">☰</button>
+    </div>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div id="mobileMenu" class="hidden md:hidden px-4 pb-4 space-y-1">
+    <a href="/portfolio./index.php" class="block">Home</a>
+    <a href="/portfolio./about.php" class="block">About</a>
+    <a href="/portfolio./projects.php" class="block">Projects</a>
+    <a href="/portfolio./resume.php" class="block">Resume</a>
+    <a href="/portfolio./blog/index.php" class="block">Blog</a>
+    <a href="/portfolio./testimonials/index.php" class="block">Testimonials</a>
+    <a href="/portfolio./certificates/index.php" class="block">Certificates</a>
+    <a href="/portfolio./education/index.php" class="block">Education</a>
+    <a href="/portfolio./achievements/index.php" class="block">Achievements</a>
+    <a href="/portfolio./experience/index.php" class="block">Experience</a>
+    <a href="/portfolio./contact.php" class="block">Contact</a>
+  </div>
+</header>
+
+<script>
+function toggleMenu() {
+  document.getElementById("mobileMenu").classList.toggle("hidden");
+}
+</script>

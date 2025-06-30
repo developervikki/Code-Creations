@@ -1,0 +1,33 @@
+{
+  "languages": [
+    "C",
+    "C++",
+    "JavaScript",
+    "PHP",
+    "HTML",
+    "CSS",
+    "SQL"
+  ],
+  "frameworks": [
+    "Tailwind CSS",
+    "Bootstrap",
+    "Laravel (Basic)",
+    "jQuery"
+  ],
+  "tools": [
+    "Git & GitHub",
+    "VS Code",
+    "XAMPP",
+    "MySQL",
+    "MATLAB",
+    "Figma",
+    "Netlify"
+  ],
+  "concepts": [
+    "OOP",
+    "DSA",
+    "REST APIs",
+    "MVC Architecture",
+    "Responsive Design"
+  ]
+}
