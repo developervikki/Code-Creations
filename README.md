@@ -8,7 +8,7 @@
 Welcome to my **developer portfolio** built using PHP, HTML, Tailwind CSS, and JavaScript. It’s a clean and modular showcase of my skills, projects, experiences, certifications, and more.
 ![image](https://github.com/user-attachments/assets/fbc57118-9ae3-4cc1-a8e0-e72cfdbf787e)
 ![image](https://github.com/user-attachments/assets/14992a98-4e2e-4f88-a65e-aa82039e023e)
-![image](https://github.com/user-attachments/assets/1ae45908-4718-4606-95d0-e55d7d6457a5)
+![image](https://github.com/user-attachments/assets/082e9c32-5cb6-48d7-829b-c5bbd4779423)
 
 
 
