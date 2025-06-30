@@ -5,6 +5,17 @@ Welcome to my personal portfolio repository! This project showcases my profile, 
 
 ---
 
+## 🚀 Technologies Used
+
+| Category        | Technology                             |
+|----------------|-----------------------------------------|
+| **Frontend**    | HTML5, CSS3, Tailwind CSS, JavaScript  |
+| **Backend**     | PHP                                    |
+| **Animations**  | Typed.js, Particles.js                 |
+| **Data Handling**| JSON (skills.json, projects.json)     |
+| **Version Control** | Git & GitHub                        |
+| **Deployment**  | GitHub Pages / Custom Domain (CNAME)   |
+
 ## 🚀 Features
 
 - ✅ Fully responsive layout using **Tailwind CSS**
