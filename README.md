@@ -5,6 +5,66 @@ Welcome to my personal portfolio repository! This project showcases my profile, 
 ---
 
 ## 📁 Folder Structure
+portfolio/
+│
+├── index.php                   # Landing/Home Page
+├── about.php                   # About Me
+├── projects.php                # Project Portfolio (Dynamic/Static)
+├── resume.php                  # View or Download Resume
+├── contact.php                 # Contact Form (mail or FormSubmit)
+├── 404.php                     # Custom 404 Error Page
+│
+├── admin/                      # (Optional) Admin dashboard to manage content
+│   ├── login.php               # Admin login
+│   ├── dashboard.php           # Admin dashboard
+│   └── edit-project.php        # Edit portfolio items
+│
+├── blog/
+│   ├── index.php               # Blog home
+│   ├── post1.php               # Sample blog post
+│   └── post2.php
+│
+├── certificates/
+│   ├── index.php               # Certificate viewer
+│   └── assets/                 # PDF/Image files of certificates
+│
+├── achievements/
+│   └── index.php               # Awards, accomplishments
+│
+├── experience/
+│   └── index.php               # Work and internship experience
+│
+├── education/
+│   └── index.php               # Academic background
+│
+├── testimonials/
+│   └── index.php               # Testimonials/feedback
+│
+├── includes/                   # Shared reusable components
+│   ├── header.html             # Navbar
+│   ├── footer.html             # Footer
+│   └── preload.html            # Preloader markup
+│
+├── assets/                     # Static assets
+│   ├── css/
+│   │   ├── style.css           # Custom styling
+│   │   └── tailwind.css        # Tailwind base (if not CDN)
+│   ├── js/
+│   │   ├── main.js             # Main scripts
+│   │   └── animation.js        # Typed.js, particles, scroll
+│   ├── img/                    # Images (profile, project previews)
+│   └── icons/                  # Social media or skill icons
+│
+├── data/                       # Dynamic content files
+│   ├── skills.json             # Skills list
+│   └── projects.json           # Projects data
+│
+├── .gitignore                  # For GitHub: node_modules, vendor, etc.
+├── README.md                   # GitHub documentation
+├── CNAME                       # For custom domain (GitHub Pages)
+└── LICENSE                     # MIT or your preferred license
+
+
 
 portfolio/
 │
