@@ -60,11 +60,11 @@ http://localhost:8000
 
 📄 Add your own blog posts in /blog/.
 
-
+Live Check [click here](http://portfolio.worldofdelhi.com/)
 
 🙋‍♂️ Author
 Vikash Yadav
-🌐 Portfolio
-💼 LinkedIn
-💻 GitHub
-✉️ your.email@example.com
+🌐 [Portfolio](http://portfolio.worldofdelhi.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/vikashyadavbasti/)
+💻 [GitHub](https://github.com/developervikki)
+✉️ typhonya@example.com
