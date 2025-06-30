@@ -1,4 +1,4 @@
-# 💼 Vikash Yadav | Personal Portfolio Website
+ Personal Portfolio Website
 
 Welcome to my personal portfolio repository! This project showcases my profile, skills, achievements, and project work as a Computer Science Engineering student and developer.
 
